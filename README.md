@@ -1,3 +1,5 @@
+## SportsZone
+This application lets the user who are intrested in the joining their local recreational teams. They can create an account, join local teams with their prefered sport, chat with their fellow teammates and plan sporting events with this application.
 ## Clone the repository
 
 1. Clone the repository to your local machine:
